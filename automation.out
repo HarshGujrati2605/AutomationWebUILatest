@@ -1,0 +1,18 @@
+2024-06-27 12:06:404 INFO  CommonActions:186 - Waiting for element to be visible
+2024-06-27 12:06:474 INFO  CommonActions:186 - Highlighted the Admin Tab
+2024-06-27 12:06:524 INFO  CommonActions:186 - i Click on the element Admin Tab
+2024-06-27 12:06:524 INFO  CommonActions:186 - Waiting for element to be visible
+2024-06-27 12:06:746 INFO  CommonActions:186 - Highlighted the Username field
+2024-06-27 12:06:868 INFO  CommonActions:186 - i Click on the element Username field
+2024-06-27 12:06:886 INFO  CommonActions:186 - Highlighted the Username field
+2024-06-27 12:06:35 INFO  CommonActions:186 - Clicked onUsername field
+2024-06-27 12:06:37 INFO  CommonActions:186 - Waiting for element to be visible
+2024-06-27 12:06:114 INFO  CommonActions:186 - Highlighted the Password field
+2024-06-27 12:06:160 INFO  CommonActions:186 - i Click on the element Password field
+2024-06-27 12:06:177 INFO  CommonActions:186 - Highlighted the Password field
+2024-06-27 12:06:263 INFO  CommonActions:186 - Clicked onPassword field
+2024-06-27 12:06:263 INFO  CommonActions:186 - Waiting for element to be visible
+2024-06-27 12:06:304 INFO  CommonActions:186 - Highlighted the Login button
+2024-06-27 12:06:349 INFO  CommonActions:186 - i Click on the element Login button
+2024-06-27 12:06:354 INFO  CommonActions:186 - Waiting for element to be Present
+2024-06-27 12:06:715 INFO  CommonActions:186 - Screenshot taken
